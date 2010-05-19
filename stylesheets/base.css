@@ -1,0 +1,88 @@
+body {
+  background-color:#666e71;
+  font-family:Arial,Helvetica;
+  margin:60px 0 0 0;
+  text-align:center;
+}
+
+#container {
+  margin:0 auto;
+  width:800px;
+}
+
+.logo {
+  margin:0 0 0 180px;
+  text-align:center;
+}
+
+.logo div {
+  float:left;
+}
+
+.icon { 
+  width: 260px;
+}
+
+.contact {
+  margin:0 0 0 0;
+  text-align:left;
+  width:350px;
+}
+
+.contact p {
+  margin:4px 0;
+  padding:0 4px;
+}
+
+.contact a {
+  padding:4px;
+}
+
+.contact .name {
+  font-size:.8em
+}
+
+.contact .phone {
+  font-size:.8em
+}
+
+.contact .link {
+  color:#000;
+  font-size:.8em;
+  text-decoration:none
+}
+
+.contact .link:hover {
+  background-color:#000;
+  color:#666;
+}
+
+.product {
+  margin:20px 20px 10px 180px;
+  text-align:left;
+}
+
+.info {
+  font-size:.8em;
+}
+
+.info p {
+  margin:0 0 10px 0;
+  text-transform:uppercase
+}
+
+.products {
+  font-size:.8em;
+  margin:40px 0 0 0;
+}
+
+div.label {
+  font-size:.95em;
+  margin:0 0 10px 0
+}
+
+div.input input {
+  font-size:.8em;
+  padding:4px
+}
+
